@@ -1,0 +1,62 @@
+# Reserved Keywords
+False       -
+class       -
+finally     -
+is          -
+return      -
+None        -
+contuine    -
+for         -
+lambda      -
+try         -
+True        -
+def         -
+from        -
+nonlocal    -
+while       -
+and         -
+del         -
+global      -
+not         -
+with        -
+as          -
+elif        -
+if          -
+or          -
+yield       -
+assert      -
+else        -
+imprt       -
+pass        -
+break       -
+except      - 
+in          -
+raise       -
+
+#Arithmetic
+Operation   Operation
++           Addition
+-           Subtraction
+*           Multiplication
+/           Division
+%           Modulo
+//          Floor Division
+**          Exponent
+
+Operator    Example     Equivalent
+=           a = b       a = b 
++=          a += b      a = (a + b)
+-=          a -= b      a = (a - b)
+*=          a *= b      a = (a * b)
+/=          a /= b      a = (a / b)
+%=          a %= b      a = (a % b)
+//=         a //= b     a = (a //= b)
+**=         a **= b     a = (a **= b)
+
+Operator    Comparative test
+==          Equailty
+!=          Inequality
+>           Greater than
+<           less than
+>=          Greater of equal to
+<=          Less than of equal to
